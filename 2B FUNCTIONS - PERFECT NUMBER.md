@@ -4,20 +4,22 @@
 To write a Python program to define a function that accepts 2 values and return its modulo value
 
 # ALGORITHM
-Start
+1.Start
 
-Read integer a from the user
+2.Read integer a from the user
 
-Read integer b from the user
+3.Read integer b from the user
 
-Compute the remainder: c = a % b
+4.Compute the remainder: c = a % b
 
-Print the result as "modulo is", c
+5.Print the result as "modulo is", c
 
-End
+6.End
 
 # PROGRAM
 ```
+# REGNO:-212222060175
+# Name:-Penumalli GowriNandini
 def result (a,b):
     c= a%b
     print ("modulo is",c)
