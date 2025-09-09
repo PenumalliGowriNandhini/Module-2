@@ -4,26 +4,28 @@
 To write a program to print inverted pyramid pattern with the same digit.
 
 # ALGORITHM
-Start
+1.Start
 
-Read integer a from the user
+2.Read integer a from the user
 
-Loop from i = a down to 1 (inclusive):
+3.Loop from i = a down to 1 (inclusive):
 
-for i in range(a, 0, -1)
+4.for i in range(a, 0, -1)
 
-Inside the outer loop, loop from j = 0 to i - 1:
+5.Inside the outer loop, loop from j = 0 to i - 1:
 
-for j in range(0, i)
+6.for j in range(0, i)
 
-Print the value of a followed by a space (keep on same line)
+7.Print the value of a followed by a space (keep on same line)
 
-Print a newline after the inner loop to move to the next row
+8.Print a newline after the inner loop to move to the next row
 
-End
+9.End
 
 # PROGRAM
 ```
+# REGNO:-212222060175
+# Name:-Penumalli GowriNandini
 a=int(input())
 for i in range(a,0,-1):
     for j in range (0,i):
