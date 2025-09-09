@@ -4,18 +4,20 @@
 To write a python program to count the number of digits in a number.
 
 # ALGORITHM
-Start
+1.Start
 
-Read input a from the user (as a string)
+2.Read input a from the user (as a string)
 
-Find the length of a using len(a) and store it in b
+3.Find the length of a using len(a) and store it in b
 
-Print "The number of digits in the number are:", b
+4.Print "The number of digits in the number are:", b
 
-End
+5.End
 
 # PROGRAM
 ```
+# REGNO:-212222060175
+# Name:-Penumalli GowriNandini
 a=input()
 b=len (a)
 print("The number of digits in the number are:",b)
