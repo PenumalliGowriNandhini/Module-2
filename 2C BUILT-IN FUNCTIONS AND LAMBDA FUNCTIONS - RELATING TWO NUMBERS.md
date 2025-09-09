@@ -4,20 +4,22 @@
 To write a python program using lambda function which takes z as a parameter and returns z*56 using python.
 
 # ALGORITHM
-Start
+1.Start
 
-Read integer z from the user
+2.Read integer z from the user
 
-Define a lambda function: product = lambda z: z * 56
+3.Define a lambda function: product = lambda z: z * 56
 
-Call the product function with input z
+4.Call the product function with input z
 
-Print the result
+5.Print the result
 
-End
+6.End
 
 # PROGRAM
 ```
+# RENO:-212222060175
+# Name:-Penumalli GowriNandini
 z=int(input())
 product=lambda z:z*56
 print(product(z))
