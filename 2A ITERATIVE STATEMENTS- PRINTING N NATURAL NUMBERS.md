@@ -4,26 +4,28 @@
 To create a print numbers range from M to N (including M and N values) divisible by 11 in reverse order.
 
 # ALGORITHM
-Start
+1.Start
 
-Read integer a from the user.
+2.Read integer a from the user.
 
-Read integer b from the user.
+3.Read integer b from the user.
 
-Loop from i = b down to a (inclusive):
+4.Loop from i = b down to a (inclusive):
 
-Use a for loop: for i in range(b, a - 1, -1)
+5.Use a for loop: for i in range(b, a - 1, -1)
 
-Check if the current number i is divisible by 11:
+6.Check if the current number i is divisible by 11:
 
-If i % 11 == 0, then:
+7.If i % 11 == 0, then:
 
-Print i
+8.Print i
 
-End
+9.End
 
 # PROGRAM
 ```
+# REGNO:-212222060175
+# Name:-Penumalli GowriNandini
 a=int(input())
 b=int(input())
 for i in range(b,a-1,-1):
